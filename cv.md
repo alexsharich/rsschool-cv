@@ -1,18 +1,18 @@
-#Aleksander Sharich
+# Aleksander Sharich
 
-#####Engineer
+** Engineer **
 
-##Contacts
+## Contacts
 
 + +375-29-561-19-18
 + alexsharich@gmail.com
 + [GitHub](https://github.com/alexsharich)
 
-##About me 
+## About me 
 
 My name is Alexander I am 30 years old .
 
-##Skills
+## Skills
 + HTML5 and CSS
 + JavaScript
 + Git
@@ -21,20 +21,20 @@ My name is Alexander I am 30 years old .
 console.log('Hello world')
 ~~~
 
-##Training
+## Training
 
 1. Learn JS
 2. Codewars
 3. Code.mu
 
-##Experience
+## Experience
 
 I don't have much experience in programming but I'm a fast learner and I have a strong desire to become a cool programmer
 
-##Education
+## Education
 Belarusian State Agrarian Technical University
 
-##Languages
+## Languages
 
 + Rusiian 
 + Belarusian
