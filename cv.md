@@ -1,6 +1,6 @@
 # Aleksander Sharich
 
-** Engineer **
+*Engineer*
 
 ## Contacts
 
