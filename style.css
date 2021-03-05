@@ -1,0 +1,85 @@
+body {
+    background-image: url('./img/Re69019cd892694baa668204cd58e606e.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat reverse ;
+    background: cover;
+    color: white;
+    font-family: sans-serif,Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 1140px;
+ }
+ img {
+     border-radius: 10%;
+     opacity: .7;
+     transition: opacity .3s linear;
+ }
+ img:hover {
+     opacity: 1;
+ }
+     .page {
+     width: 1100px;
+     margin: 0 auto;
+     border: 2px solid grey;
+     box-shadow:  0.4em 0.4em 5px rgba(132, 131, 216, 0.5);;
+     text-align: center;
+ }
+ h1 {
+     text-align: center;
+     font-size: 30px;
+     transition: color .3s linear;
+ }
+ h2 {
+     text-align: center;
+     transition: color .3s linear;
+ }
+ h5 {
+     color: blue important;
+     transition: color .3s linear;
+ }
+ header {
+     background-color: rgba(0,0,0,0.9);
+     margin: 0 auto;
+     display: flex; 
+     color:white;    
+ }
+ .header {
+     margin: 0 auto;
+     text-align: justify;
+ }
+ .container {
+     display: flex;
+     width: auto;
+    flex-wrap: wrap ;
+    align-content: center;
+    background-color: rgba(0,0,0,0.9) ;  
+ }
+ section {
+     width: 300px;
+     margin: 0 auto;
+     padding: 10px;
+     text-align: center;
+ }
+ p, ul, ol {
+     list-style-type: none;
+     color: rgb(175, 174, 174);
+     transition: color .3s linear;
+ }
+ footer{
+     padding: 30px 100px;
+     display: flex;
+     justify-content: flex-end;
+     background-color: rgba(0,0,0,0.9) ;
+ }
+ a {
+     text-decoration: none;
+     color:  rgb(146, 144, 144);
+ }
+ h1:hover, h2:hover, a:hover{
+     color: rgb(31, 150, 31);  
+ }
+ ul:hover, ol:hover {
+     color: rgb(146, 144, 144);  
+ }
+ p:hover{
+   color: rgb(146, 144, 144) ;
+ }
+ 
